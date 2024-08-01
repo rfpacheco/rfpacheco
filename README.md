@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **creating new software and analystics tool for health|genomics related problem**
 
-- ⚡ Fun fact [I like gaming a lot!](I like gaming a lot!)
+- ⚡ Fun fact **I like to game with my friends and wife**
 
 - 💬 Ask me about **Python, Git, bash, SQL, R, JavaScript, HTML/CSS, Node.js, Software development, Data Science, Bioinformatics!**
 
