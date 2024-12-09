@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ronnyfph@gmail.com, rfpacheco@cbm.csic.es; ronny.pacheco@uam.es, rfpacheco@uoc.edu** 
 
-<h3 align="left">Connect with me:</h3>
+[<h3 align="left">Connect with me:</h3>]  #
 <p align="left">
 </p>
 
