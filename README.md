@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronny Pacheco</h1>
-<h3 align="center">A passionate Bioinformatician (or computational biologist) dedicated to Software development and Data Science.</h3>
+<h3 align="center">A passionate Bioinformatician (or Computational Biologist) dedicated to Software Development and Data Science.</h3>
 
-- 🔭 I’m currently working on [Genomics in Leishmania parasytes](https://www.cbm.uam.es/es/investigacion/programas/dinamica-y-funcion-del-genoma/decodificacion-del-genoma/regulacion-de-la-expresion-genica-en-leishmania)
+- 🔭 I’m currently working on [Genomics in Leishmania parasytes](https://www.cbm.uam.es/index.php/scientific-programs/genome-dynamics-and-function/genome-decoding/regulation-of-gene-expression-in-leishmania/)
 
 - 🌱 I’m currently learning **Informatic Enginieering, Data Science and Bioinformatics!**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Git, bash, SQL, R, JavaScript, HTML/CSS, Node.js, Software development, Data Science, Bioinformatics!**
 
-- 📫 How to reach me **ronnyfph@gmail.com; rfpacheco@cbm.csic.es, ronny.pacheco@uam.es**
+- 📫 How to reach me **ronnyfph@gmail.com, rfpacheco@cbm.csic.es; ronny.pacheco@uam.es, rfpacheco@uoc.edu** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
